@@ -3,4 +3,4 @@ This repository contains some of my different python skills. It allows me to eas
 
 ## Authors
 
-This project is developed by https://github.com/Philand.
+This project is developed by https://github.com/Philand[Philippe Pinçon].
